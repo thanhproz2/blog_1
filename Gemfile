@@ -20,6 +20,18 @@ gem 'coffee-rails', '~> 4.2'
 gem 'jquery-rails'
 gem 'ckeditor'
 gem 'paperclip'
+
+#using devise
+#gem 'devise-bootstrap-views'
+gem 'pg'
+gem 'therubyracer'
+gem 'devise'
+gem 'omniauth'
+gem 'omniauth-facebook'
+gem 'simple_form', '~> 3.2'
+gem 'bootstrap-sass', '~> 3.3'
+#gem "bootstrap-sass-rails"
+
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
 gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
